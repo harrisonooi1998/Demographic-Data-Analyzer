@@ -1,4 +1,3 @@
-# Demographic-Data-Analyzer
 ### Assignment
 
 # Demographic Data Analyzer
